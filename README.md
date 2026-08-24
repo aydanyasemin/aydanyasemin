@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aydan Yasemin ULUDOĞAN</h1>
-<h3 align="center">A computer engineering student from Turkey</h3>
+<h3 align="center">A computer engineer from Turkey</h3>
 
 - 📫 How to reach me **aydanyasemin01@gmail.com**
 
